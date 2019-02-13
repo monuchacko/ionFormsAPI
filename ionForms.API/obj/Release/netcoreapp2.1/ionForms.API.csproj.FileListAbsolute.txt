@@ -1,0 +1,15 @@
+C:\Users\moc9029\source\repos\ionForms.API\ionForms.API\obj\Release\netcoreapp2.1\ionForms.API.csprojAssemblyReference.cache
+C:\Users\moc9029\source\repos\ionForms.API\ionForms.API\obj\Release\netcoreapp2.1\ionForms.API.csproj.CoreCompileInputs.cache
+C:\Users\moc9029\source\repos\ionForms.API\ionForms.API\obj\Release\netcoreapp2.1\ionForms.API.RazorAssemblyInfo.cache
+C:\Users\moc9029\source\repos\ionForms.API\ionForms.API\obj\Release\netcoreapp2.1\ionForms.API.RazorAssemblyInfo.cs
+C:\Users\moc9029\source\repos\ionForms.API\ionForms.API\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\moc9029\source\repos\ionForms.API\ionForms.API\obj\Release\netcoreapp2.1\ionForms.API.AssemblyInfoInputs.cache
+C:\Users\moc9029\source\repos\ionForms.API\ionForms.API\obj\Release\netcoreapp2.1\ionForms.API.AssemblyInfo.cs
+C:\Users\moc9029\source\repos\ionForms.API\ionForms.API\bin\Release\netcoreapp2.1\ionForms.API.deps.json
+C:\Users\moc9029\source\repos\ionForms.API\ionForms.API\bin\Release\netcoreapp2.1\ionForms.API.runtimeconfig.json
+C:\Users\moc9029\source\repos\ionForms.API\ionForms.API\bin\Release\netcoreapp2.1\ionForms.API.runtimeconfig.dev.json
+C:\Users\moc9029\source\repos\ionForms.API\ionForms.API\bin\Release\netcoreapp2.1\ionForms.API.dll
+C:\Users\moc9029\source\repos\ionForms.API\ionForms.API\bin\Release\netcoreapp2.1\ionForms.API.pdb
+C:\Users\moc9029\source\repos\ionForms.API\ionForms.API\obj\Release\netcoreapp2.1\ionForms.API.RazorTargetAssemblyInfo.cache
+C:\Users\moc9029\source\repos\ionForms.API\ionForms.API\obj\Release\netcoreapp2.1\ionForms.API.dll
+C:\Users\moc9029\source\repos\ionForms.API\ionForms.API\obj\Release\netcoreapp2.1\ionForms.API.pdb
