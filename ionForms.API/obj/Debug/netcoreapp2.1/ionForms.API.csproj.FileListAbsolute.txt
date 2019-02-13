@@ -3,6 +3,7 @@ C:\Users\moc9029\source\repos\ionForms.API\ionForms.API\bin\Debug\netcoreapp2.1\
 C:\Users\moc9029\source\repos\ionForms.API\ionForms.API\bin\Debug\netcoreapp2.1\ionForms.API.runtimeconfig.dev.json
 C:\Users\moc9029\source\repos\ionForms.API\ionForms.API\bin\Debug\netcoreapp2.1\ionForms.API.dll
 C:\Users\moc9029\source\repos\ionForms.API\ionForms.API\bin\Debug\netcoreapp2.1\ionForms.API.pdb
+C:\Users\moc9029\source\repos\ionForms.API\ionForms.API\obj\Debug\netcoreapp2.1\ionForms.API.csprojAssemblyReference.cache
 C:\Users\moc9029\source\repos\ionForms.API\ionForms.API\obj\Debug\netcoreapp2.1\ionForms.API.csproj.CoreCompileInputs.cache
 C:\Users\moc9029\source\repos\ionForms.API\ionForms.API\obj\Debug\netcoreapp2.1\ionForms.API.RazorAssemblyInfo.cache
 C:\Users\moc9029\source\repos\ionForms.API\ionForms.API\obj\Debug\netcoreapp2.1\ionForms.API.RazorAssemblyInfo.cs
